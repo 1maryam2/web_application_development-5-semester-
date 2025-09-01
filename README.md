@@ -1,1 +1,1 @@
-# web_application_development-5-semester-
+# Разработка Интернет Приложений(РИП)
